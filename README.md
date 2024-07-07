@@ -80,10 +80,7 @@ Where technology meets tranquility, trust me, I'm a tech guy ✅✅✅
  <a href="https://rajendratamang.dev" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <a href=" https://www.youtube.com/channel/UCPqPuTMmXlJKabb8se_gBRA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
- 
-
-
+  
 <br/>
 
 ## Github Profile Summary Card 
