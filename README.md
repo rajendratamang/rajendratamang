@@ -38,11 +38,15 @@ In addition, I am well-versed in API development and testing. My technical reper
 
 ![Rajendra's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rajendratamang&layout=compact&langs_count=8&hide_border=true)
 
-## Portfolio 📚
+
+
+## Portfolio 
 - ℹ️ About : Polyhobbyist Programmer: Avid Reader, Aquatic Enthusiast, Wanderlust Gardener
 - 🤘 Eat - Sleep - Code - Repeat ♾️
 - 🎰 Turning Ideas into Reality
 - 🌐 Website: [www.rajendratamang.dev](https://www.rajendratamang.dev)
+- 📚 Current Read: [The Personal MBA](https://personalmba.com/)
+
 <br>
 
 ## My YouTube Channel 📺
