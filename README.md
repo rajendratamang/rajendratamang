@@ -1,5 +1,4 @@
-## Hey there 👋
-
+## ❗❗❗ Hello World ❗❗❗
 I am Rajendra Tamang, a PHP developer based in Kathmandu, Nepal. I have been working as a PHP developer since 2016, utilizing top PHP frameworks such as Laravel, CodeIgniter, WordPress, Drupal, and Symfony. My expertise extends to various design patterns, including MVC, HMVC, and the Repository pattern, as well as SOLID principles.
 
 As an excellent team lead, I have substantial experience in project management and handling international clients. I am fluent in English, ensuring clear and effective communication with clients and team members alike.
