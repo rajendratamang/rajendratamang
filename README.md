@@ -36,6 +36,11 @@ In addition, I am well-versed in API development and testing. My technical reper
 - ℹ️ Fun fact: Polyhobbyist Programmer: Avid Reader, Aquatic Enthusiast, Wanderlust Gardener
 - 🌐 Website: [www.rajendratamang.dev](https://www.rajendratamang.dev)
 <br>
+## My YouTube Channel
+
+Check out my [YouTube Channel](https://www.youtube.com/shorts/aaGfEHognyg) for tutorials and more content.
+
+
 
 ## Reach Me 💡
 Where technology meets tranquility, trust me, I'm a tech guy ✅✅✅
