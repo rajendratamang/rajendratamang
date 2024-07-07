@@ -60,11 +60,11 @@ Check out my [YouTube Channel](https://www.youtube.com/shorts/aaGfEHognyg) for m
 Where technology meets tranquility, trust me, I'm a tech guy ✅✅✅
 <p>
 	<a href="https://www.linkedin.com/in/rajendra-tamang/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
-<br/>
+
 <a href="tamangrajendra0523@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
- </a>
-
+</a>
+<br/>
 
 ## Github Profile Summary Card 💳
 
