@@ -21,6 +21,7 @@ In addition, I am well-versed in API development and testing. My technical reper
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=for-the-badge&logo=jQuery)
 ![React.js](https://img.shields.io/badge/-React.js-%232c3e50?style=for-the-badge&logo=react)
+<br>
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=laravel)
 ![Drupal](https://img.shields.io/badge/-DRUPAL-%232c3e50?style=for-the-badge&logo=DRUPAL)
@@ -28,6 +29,7 @@ In addition, I am well-versed in API development and testing. My technical reper
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-%232c3e50?style=for-the-badge&logo=CODEIGNITER)
 ![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=for-the-badge&logo=MySQL)
 ![Node.js](https://img.shields.io/badge/-Node.js-%232c3e50?style=for-the-badge&logo=nodedotjs)
+<br>
 ![Git](https://img.shields.io/badge/-Git-%232c3e50?style=for-the-badge&logo=git)
 ![Paypal](https://img.shields.io/badge/-paypal-%232c3e50?style=for-the-badge&logo=PAYPAL)
 ![Mailchimp](https://img.shields.io/badge/-mailchimp-%232c3e50?style=for-the-badge&logo=MAILCHIMP)
