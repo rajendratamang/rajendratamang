@@ -34,7 +34,7 @@ In addition, I am well-versed in API development and testing. My technical reper
 ![Paypal](https://img.shields.io/badge/-paypal-%232c3e50?style=for-the-badge&logo=PAYPAL)
 ![Mailchimp](https://img.shields.io/badge/-mailchimp-%232c3e50?style=for-the-badge&logo=MAILCHIMP)
 
-<a href="https://visitor-badge.laobi.icu/badge?page_id=rajendratamang.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=rajendratamang.visitor-badge&title=Visits" align="middle" alt="Visits"></a> 
+
 
 ![Rajendra's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rajendratamang&layout=compact&langs_count=8&hide_border=true)
 
