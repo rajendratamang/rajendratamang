@@ -1,7 +1,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=rajendratamang" align="right">
 <h1 align="center">
 	<!-- multi line -->
-<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&random=false&width=470&lines=Hi+there!+%F0%9F%91%8B;I+am+Rajendra;Software+Engineer;Team+Lead;Project+Manager" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" style="padding-top: 10px"><img src="http://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&random=false&width=470&lines=Hi+there!+%F0%9F%91%8B;I+am+Rajendra;Software+Engineer;Team+Lead;Project+Manager" alt="Typing SVG" /></a>
 </h1>
 
 
