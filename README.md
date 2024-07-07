@@ -69,7 +69,7 @@ Check out my [YouTube Channel](https://www.youtube.com/shorts/aaGfEHognyg) for m
 
 
 
-## Reach Me 💡
+## Reach Me 
 Where technology meets tranquility, trust me, I'm a tech guy ✅✅✅
 <p>
 	<a href="https://www.linkedin.com/in/rajendra-tamang/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
@@ -82,13 +82,13 @@ Where technology meets tranquility, trust me, I'm a tech guy ✅✅✅
   </a>
 <br/>
 
-## Github Profile Summary Card 💳
+## Github Profile Summary Card 
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajendratamang&theme=apprentice"/>
 </p>
 
-## GitHub Stats 📟
+## GitHub Stats 
 
 <p align="center">
  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rajendratamang&show_icons=true&theme=apprentice" />
