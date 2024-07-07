@@ -37,7 +37,7 @@ In addition, I am well-versed in API development and testing. My technical reper
 - 🌐 Website: [www.rajendratamang.dev](https://www.rajendratamang.dev)
 <br>
 
-## My YouTube Channel
+## My YouTube Channel 📺
 
 Check out my [YouTube Channel](https://www.youtube.com/shorts/aaGfEHognyg) for more content.
 
