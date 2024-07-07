@@ -37,6 +37,18 @@ In addition, I am well-versed in API development and testing. My technical reper
 <br>
   <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+
+
 ![Rajendra's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rajendratamang&layout=compact&langs_count=8&hide_border=true)
 
 
