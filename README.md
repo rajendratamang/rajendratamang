@@ -1,5 +1,5 @@
-## ❗❗❗ Hello World ❗❗❗ 🇳🇵 🇳🇵 🇳🇵
-I am Rajendra Tamang, a PHP developer based in Kathmandu, Nepal. I have been working as a PHP developer since 2016, utilizing top PHP frameworks such as Laravel, CodeIgniter, WordPress, Drupal, and Symfony. My expertise extends to various design patterns, including MVC, HMVC, and the Repository pattern, as well as SOLID principles.
+## ❗❗❗ Namaste ❗❗❗ 🇳🇵 🇳🇵 🇳🇵
+PHP developer based in Kathmandu, Nepal. I have been working as a PHP developer since 2016, utilizing top PHP frameworks such as Laravel, CodeIgniter, WordPress, Drupal, and Symfony. My expertise extends to various design patterns, including MVC, HMVC, and the Repository pattern, as well as SOLID principles.
 
 As an excellent team lead, I have substantial experience in project management and handling international clients. I am fluent in English, ensuring clear and effective communication with clients and team members alike.
 
@@ -30,10 +30,9 @@ In addition, I am well-versed in API development and testing. My technical reper
 ![Rajendra's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rajendratamang&layout=compact&langs_count=8&hide_border=true)
 
 ## Portfolio 📚
-- 🔭 Check out my  Profile: [Rajendra Tamang](https://rajendratamang.dev)
+- ℹ️ About : Polyhobbyist Programmer: Avid Reader, Aquatic Enthusiast, Wanderlust Gardener
 - 🤘 Eat - Sleep - Code - Repeat ♾️
 - 🎰 Turning Ideas into Reality
-- ℹ️ Fun fact: Polyhobbyist Programmer: Avid Reader, Aquatic Enthusiast, Wanderlust Gardener
 - 🌐 Website: [www.rajendratamang.dev](https://www.rajendratamang.dev)
 <br>
 
