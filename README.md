@@ -15,20 +15,20 @@ Despite my backend specialization, I am highly enthusiastic about frontend techn
 In addition, I am well-versed in API development and testing. My technical repertoire includes proficiency in React Native and Flutter, which allows me to contribute effectively to mobile application development. I am also an active contributor to the open-source community, with several published libraries and add-ons that reflect my commitment to advancing the field.
 
 ## Tech Stack 💫
-![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
-![Drupal](https://img.shields.io/badge/-DRUPAL-%232c3e50?style=for-the-badge&logo=DRUPAL)
-![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=laravel)
-![Wordpress](https://img.shields.io/badge/-Wordpress-%232c3e50?style=for-the-badge&logo=WORDPRESS)
-![Codeigniter](https://img.shields.io/badge/-Codeigniter-%232c3e50?style=for-the-badge&logo=CODEIGNITER)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript)
-![React.js](https://img.shields.io/badge/-React.js-%232c3e50?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-%232c3e50?style=for-the-badge&logo=nodedotjs)
-![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=for-the-badge&logo=jQuery)
-![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=for-the-badge&logo=MySQL)
-![Git](https://img.shields.io/badge/-Git-%232c3e50?style=for-the-badge&logo=git)
 ![HTML5](https://img.shields.io/badge/-HTML5-%232c3e50?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-%232c3e50?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=for-the-badge&logo=jQuery)
+![React.js](https://img.shields.io/badge/-React.js-%232c3e50?style=for-the-badge&logo=react)
+![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
+![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=laravel)
+![Drupal](https://img.shields.io/badge/-DRUPAL-%232c3e50?style=for-the-badge&logo=DRUPAL)
+![Wordpress](https://img.shields.io/badge/-Wordpress-%232c3e50?style=for-the-badge&logo=WORDPRESS)
+![Codeigniter](https://img.shields.io/badge/-Codeigniter-%232c3e50?style=for-the-badge&logo=CODEIGNITER)
+![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=for-the-badge&logo=MySQL)
+![Node.js](https://img.shields.io/badge/-Node.js-%232c3e50?style=for-the-badge&logo=nodedotjs)
+![Git](https://img.shields.io/badge/-Git-%232c3e50?style=for-the-badge&logo=git)
 ![Paypal](https://img.shields.io/badge/-paypal-%232c3e50?style=for-the-badge&logo=PAYPAL)
 ![Mailchimp](https://img.shields.io/badge/-mailchimp-%232c3e50?style=for-the-badge&logo=MAILCHIMP)
 
@@ -51,7 +51,8 @@ Check out my [YouTube Channel](https://www.youtube.com/shorts/aaGfEHognyg) for m
 
 ## Reach Me 💡
 Where technology meets tranquility, trust me, I'm a tech guy ✅✅✅
-<p><a href="https://www.linkedin.com/in/rajendra-tamang/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
+<p>
+	<a href="https://www.linkedin.com/in/rajendra-tamang/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
 <br/>
 
 ## Github Profile Summary Card 💳
