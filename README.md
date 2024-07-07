@@ -14,7 +14,7 @@ Despite my backend specialization, I am highly enthusiastic about frontend techn
 
 In addition, I am well-versed in API development and testing. My technical repertoire includes proficiency in React Native and Flutter, which allows me to contribute effectively to mobile application development. I am also an active contributor to the open-source community, with several published libraries and add-ons that reflect my commitment to advancing the field.
 
-## Tech Stack 💫
+## 🛠️ 	Languages - Frameworks - Tools  🛠️ 	
 ![HTML5](https://img.shields.io/badge/-HTML5-%232c3e50?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-%232c3e50?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
