@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi there! 👋
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
 ## ❗❗❗ Namaste ❗❗❗ 🇳🇵 🇳🇵 🇳🇵
 Software Engineer from Kathmandu, Nepal. I have been working as a Software Engineer since 2016, utilizing top PHP frameworks such as Laravel, CodeIgniter, WordPress, Drupal, and Shopify. My expertise extends to various design patterns, including MVC, HMVC, and the Repository pattern, as well as SOLID principles.
