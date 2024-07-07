@@ -38,7 +38,7 @@ In addition, I am well-versed in API development and testing. My technical reper
 <br>
 
 ## Reach Me 💡
-Feel free to contact me :yum:
+Where technology meets tranquility, trust me, I'm a tech guy ✅✅✅
 <p><a href="https://www.linkedin.com/in/rajendra-tamang/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
 <br/>
 
