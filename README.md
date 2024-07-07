@@ -43,6 +43,7 @@ In addition, I am well-versed in API development and testing. My technical reper
 ## Portfolio 
 - ℹ️ About : Polyhobbyist Programmer: Avid Reader, Aquatic Enthusiast, Wanderlust Gardener
 - 🤘 Eat - Sleep - Code - Repeat ♾️
+- 🌱 I’m currently learning **Docker,  AWS**
 - 🎰 Turning Ideas into Reality
 - 🌐 Website: [www.rajendratamang.dev](https://www.rajendratamang.dev)
 - 📚 Current Read: [The Personal MBA](https://personalmba.com/)
@@ -60,6 +61,10 @@ Where technology meets tranquility, trust me, I'm a tech guy ✅✅✅
 <p>
 	<a href="https://www.linkedin.com/in/rajendra-tamang/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
 <br/>
+<a href="tamangrajendra0523@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+ </a>
+
 
 ## Github Profile Summary Card 💳
 
