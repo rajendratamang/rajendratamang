@@ -54,7 +54,7 @@ In addition, I am well-versed in API development and testing. My technical reper
 
 
 ## Info  
-- ℹ️ About : Polyhobbyist Programmer: Avid Reader, Aquatic Enthusiast, Wanderlust Gardener
+- ℹ️ Polyhobbyist Programmer: Avid Reader, Aquatic Enthusiast, Wanderlust Gardener
 - 🤘 Eat - Sleep - Code - Repeat ♾️
 - 🌱 I’m currently learning **Docker,  AWS**
 - 🎰 Turning Ideas into Reality
