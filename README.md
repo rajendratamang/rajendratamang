@@ -8,13 +8,7 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200px"/>
 </p>
 
-```css
-body {
-  background: #0a0f0d;
-  color: #33ff00;
-  font-family: 'VT323', monospace;
-}
-```
+
 
 > _"Hack the planet!"_ - Some cool hacker in a 90s movie
 
