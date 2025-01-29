@@ -1,4 +1,4 @@
-Hi 👋 My name is Marcelo Vieira
+Hi 👋 My name is Rajendra Tamang
 ===============================
 
 <h3 align="center">I'm a passionate freelance Software Engineer specialist from Nepal with over a decade of experience. Since 2016, I've been sharing my expertise through online and youtube channel, helping others create their into software development.</h3>
