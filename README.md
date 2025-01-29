@@ -10,7 +10,7 @@
 
 
 
-> _"Hack the planet!"_ - Some cool hacker in a 90s movie
+> _"Innovate. Build. Evolve!"_ 
 
 ---
 
