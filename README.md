@@ -1,101 +1,52 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=rajendratamang" align="right">
-<h1 align="center">
-	<!-- multi line -->
-<a href="https://git.io/typing-svg" style="padding-top: 10px"><img src="http://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&random=false&width=470&lines=Hi+there!+%F0%9F%91%8B;I+am+Rajendra;Software+Engineer;Team+Lead;Project+Manager" alt="Typing SVG" /></a>
-</h1>
+Hi 👋 My name is Marcelo Vieira
+===============================
 
+<h3 align="center">I'm a passionate freelance Software Engineer specialist from Nepal with over a decade of experience. Since 2016, I've been sharing my expertise through online and youtube channel, helping others create their into software development.</h3>
 
-<!-- ## ❗❗❗ Namaste ❗❗❗ 🇳🇵 🇳🇵 🇳🇵 -->
-Software Engineer from Kathmandu, Nepal 🇳🇵 . I have been working as a Software Engineer since 2016, utilizing top PHP frameworks such as Laravel, CodeIgniter, WordPress, Drupal, and Shopify. My expertise extends to various design patterns, including MVC, HMVC, and the Repository pattern, as well as SOLID principles.
+* 🌍  I'm based in Kathmandu, NP, Nepal
+* 🌱 I’m currently learning **Javascript, React JSTypescript**
+* 👨‍💻 Some of my projects are available at [https://rajendratamang.dev/](https://rajendratmanag.dev/)
+*  📝 I regularly write articles on [https://rajendratamang.dev](https://www.rajendratamang.dev)
+*  💬 You can ask me all about **Software Development!**
+*  📫 You can always reach me at **tamangrajendra0523@gmail.com**
+*  ⚡ Fun fact: **I Love reading , Painting and Music is another part of me**
 
-As an excellent team lead, I have substantial experience in project management and handling international clients. I am fluent in English, ensuring clear and effective communication with clients and team members alike.
+<a href="https://github.com/rajendratamang" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/rajendratamang?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-Despite my backend specialization, I am highly enthusiastic about frontend technologies. I possess extensive knowledge of React.js, Angular, Vue.js, and Laravel. I also have a keen eye for design, ensuring seamless integration of frontend and backend components.
+## Connect with me:
 
-In addition, I am well-versed in API development and testing. My technical repertoire includes proficiency in React Native and Flutter, which allows me to contribute effectively to mobile application development. I am also an active contributor to the open-source community, with several published libraries and add-ons that reflect my commitment to advancing the field.
+[![Linkedin Badge](https://img.shields.io/badge/-rajendra-tamang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rajendra-tamang/)](https://linkedin.com/in/rajendra-tamang/)
+[![Instagram Badge](https://img.shields.io/badge/-wpparadevs-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rajendra-tamangsssssss)](https://instagram.com/rajendra-tamangsssss)
+[![Codepen Badge](https://img.shields.io/badge/-rajendra-tamang-purple?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/marceloquinze)](https://codepen.io/rajendra-tamang)
+[![Twitter Badge](https://img.shields.io/badge/-rajendra-tamang-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rajendra-tamang)](https://twitter.com/rajendra-tamang)
+[![YouTube Badge](https://img.shields.io/badge/-EN_US-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@rajendra-tamang)](https://www.youtube.com/@rajendra-tamang)
+[![YouTube Badge](https://img.shields.io/badge/-PT_BR-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@rajendra-tamang)](https://www.youtube.com/@rajendra-tamang)
 
-## 🛠️ 	Languages - Frameworks - Tools  🛠️ 	
-![HTML5](https://img.shields.io/badge/-HTML5-%232c3e50?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-%232c3e50?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript)
-![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=for-the-badge&logo=jQuery)
-![React.js](https://img.shields.io/badge/-React.js-%232c3e50?style=for-the-badge&logo=react)
-<br>
-![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
-![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=laravel)
-![Drupal](https://img.shields.io/badge/-DRUPAL-%232c3e50?style=for-the-badge&logo=DRUPAL)
-![Wordpress](https://img.shields.io/badge/-Wordpress-%232c3e50?style=for-the-badge&logo=WORDPRESS)
-![Codeigniter](https://img.shields.io/badge/-Codeigniter-%232c3e50?style=for-the-badge&logo=CODEIGNITER)
-![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=for-the-badge&logo=MySQL)
-![Node.js](https://img.shields.io/badge/-Node.js-%232c3e50?style=for-the-badge&logo=nodedotjs)
-<br>
-![Git](https://img.shields.io/badge/-Git-%232c3e50?style=for-the-badge&logo=git)
-![Paypal](https://img.shields.io/badge/-paypal-%232c3e50?style=for-the-badge&logo=PAYPAL)
-![Mailchimp](https://img.shields.io/badge/-mailchimp-%232c3e50?style=for-the-badge&logo=MAILCHIMP)
+## Languages and Tools
 
-<br>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat-square&logo=wordpress)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-9b76d1?style=flat-square&logo=bootstrap)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=photoshop)
+![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
+![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)
+![AdobeXD](https://img.shields.io/badge/-AdobeXD-black?style=flat-square&logo=adobexd)
 
-<div align="center">
-  <h2> My Contributions </h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+## My Stats: 
 
-<hr/>
+<a href="http://www.github.com/rajendratamang"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajendratamang&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=false&show_icons=true" alt="marceloquinze's GitHub stats" /></a>
 
+<a href="http://www.github.com/rajendratamang"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rajendratamang&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=false" /></a>
 
-
-![Rajendra's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rajendratamang&layout=compact&langs_count=8&hide_border=true)
-
-
-
-## Info  
-- ℹ️ Polyhobbyist Programmer: Avid Reader, Aquatic Enthusiast, Wanderlust Gardener
-- 🤘 Eat - Sleep - Code - Repeat ♾️
-- 🌱 I’m currently learning **Docker,  AWS**
-- 🎰 Turning Ideas into Reality
-- 🌐 Website: [www.rajendratamang.dev](https://www.rajendratamang.dev)
-- 📚 Current Read: [The Personal MBA](https://personalmba.com/)
-
-<br>
-
-
-
-
-## Reach Me 
-Where technology meets tranquility, trust me, I'm a tech guy ✅✅✅
-<p>
-	<a href="https://www.linkedin.com/in/rajendra-tamang/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
-
-<a href="mailto:tamangrajendra0523@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-</a>
- <a href="https://rajendratamang.dev" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-  
-<br/>
-
-## Github Profile Summary Card 
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajendratamang&theme=apprentice"/>
-</p>
-
-## GitHub Stats 
-
-<p align="center">
- <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rajendratamang&show_icons=true&theme=apprentice" />
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajendratamang&theme=apprentice" />
-</p>
-
-<p align="center">
- <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajendratamang&theme=apprentice&utcOffset=8" />
-  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajendratamang&theme=apprentice" />
-
-</p>
-
+<a href="https://github.com/rajendratamang" align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marceloquinze&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
