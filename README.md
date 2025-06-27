@@ -17,8 +17,8 @@
 ### 👁 About Me
 - ⚛ **Currently Building:** SaaS-based healthcare systems & web platforms.
 - 🔬 **Exploring:** **TypeScript, Next.js, AI-powered development**
-- 💻 **Portfolio:** [rajendratamang.dev](https://rajendratamang.dev/)
-- 📝 **Blogs & Articles:** [My Blog](https://www.rajendratamang.dev)
+- 💻 **Portfolio:** [rajendratamang.dev](https://tamangrajendra.com.np)
+- 📝 **Blogs & Articles:** [My Blog](https://tamangrajendra.com.np)
 - 📡 **Ask Me About:** **DevOps, APIs, Automation, Security, and Hacking!**
 - 📢 **Ping Me:** **tamangrajendra0523@gmail.com**
 - ✨ **Hobbies:** **Ethical Hacking, Retro Gaming, Digital Art & Synthwave Music**
