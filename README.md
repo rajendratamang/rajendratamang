@@ -40,7 +40,7 @@
 $ sudo apt-get install RajendraTamang-TechStack
 ```
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,react,js,ts,php,docker,git,github,html,css,webpack,mysql,figma,adobexd,flutter,laravel,drupal" />
+  <img src="https://skillicons.dev/icons?i=linux,react,js,ts,php,docker,git,github,html,css,webpack,mysql,figma,flutter,laravel,drupal" />
 </p>
 
 ---
