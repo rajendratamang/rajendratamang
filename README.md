@@ -66,7 +66,7 @@ $ sudo apt-get install RajendraTamang-TechStack
 + More open-source projects incoming... Stay tuned! +
 ```
 
-📌 **Check out my portfolio & blog:** [rajendratamang.dev](https://rajendratamang.dev/)
+📌 **Check out my portfolio & blog:** [tamangrajendra.com.np](https://tamangrajendra.com.np/)
 
 📌 **Follow me for cool tech & hacking updates!**
 
