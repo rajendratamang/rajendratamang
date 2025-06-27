@@ -1,8 +1,4 @@
 
-<h1 align="center"><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=33FF00&center=true&width=600&lines=Senior+Software+Engineer+%7C+Full+Stack+Developer;DevOps+%7C+Laravel+%7C+Vue+%7C+React+%7C+WordPress;Tech+Explorer+%7C+Ethical+Hacker+%7C+Problem+Solver" />
-</p>
-</h1>
 <h3 align="center"><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=33FF00&center=true&width=600&lines=Senior+Software+Engineer+%7C+Full+Stack+Developer;DevOps+%7C+Laravel+%7C+Vue+%7C+React+%7C+WordPress;Tech+Explorer+%7C+Ethical+Hacker+%7C+Problem+Solver" />
 </p>
